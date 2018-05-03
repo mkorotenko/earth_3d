@@ -1,0 +1,31 @@
+{
+    "2030": {
+        "url": "https://52.57.36.133/backend/storage/app/uploads/public/587/cc9/256/587cc9256ed00231058589.png",
+        "briefs": []
+    },
+    "2040": {
+        "url": "https://52.57.36.133/backend/storage/app/uploads/public/587/cc9/256/587cc9256ed00231058589.png",
+        "briefs": [
+            {
+                "id": 55,
+                "name": "Mini-lofts - residential mobility",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 69,
+                "works_count": 0
+            }
+        ]
+    },
+    "2050": {
+        "url": "https://52.57.36.133/backend/storage/app/uploads/public/587/cc9/256/587cc9256ed00231058589.png",
+        "briefs": []
+    },
+    "location": {
+        "city": "Berlin",
+        "country": "Germany"
+    },
+    "_token": "V8kifnL0TpO3Z7gyUuNCTpIYsYwFm2HfentlNI2T"
+}

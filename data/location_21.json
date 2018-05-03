@@ -1,0 +1,76 @@
+{
+    "2030": {
+        "url": "https://52.57.36.133/backend/storage/app/uploads/public/587/fae/f09/587faef095c79084973927.png",
+        "briefs": [
+            {
+                "id": 8,
+                "name": "The office refrigerator of the future",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 44,
+                "works_count": 0
+            },
+            {
+                "id": 14,
+                "name": "3D printers",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 244,
+                "works_count": 0
+            },
+            {
+                "id": 199,
+                "name": "Digital memory inheritance",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 43,
+                "works_count": 0
+            }
+        ]
+    },
+    "2040": {
+        "url": "https://52.57.36.133/backend/storage/app/uploads/public/587/fae/f09/587faef095c79084973927.png",
+        "briefs": []
+    },
+    "2050": {
+        "url": "https://52.57.36.133/backend/storage/app/uploads/public/587/fae/f09/587faef095c79084973927.png",
+        "briefs": [
+            {
+                "id": 93,
+                "name": "Sex is no longer needed for reproduction",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 74,
+                "works_count": 0
+            },
+            {
+                "id": 109,
+                "name": "Goodbye, school!",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 94,
+                "works_count": 0
+            }
+        ]
+    },
+    "location": {
+        "city": "Brasilia",
+        "country": "Brazil"
+    },
+    "_token": "V8kifnL0TpO3Z7gyUuNCTpIYsYwFm2HfentlNI2T"
+}

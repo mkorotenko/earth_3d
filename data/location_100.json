@@ -1,0 +1,142 @@
+{
+    "location": {
+        "city": "Barcelona",
+        "country": "Spain"
+    },
+    "2030": {
+        "url": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/58a\/d54\/4b0\/58ad544b0b864756983697.png",
+        "briefs": [
+            {
+                "id": 166,
+                "name": "Roadside eatery is luring people by transmitting false information to autonomous cars",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 95,
+                "works_count": 0
+            },
+            {
+                "id": 205,
+                "name": "Barcelona 2030",
+                "year": 2030,
+                "type": "panorama",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/5a0\/ee8\/ecf\/thumb_10210_256x256_0_0_crop.jpg"
+                    }
+                },
+                "votes": 13,
+                "works_count": 1
+            }
+        ]
+    },
+    "2040": {
+        "url": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/58a\/d54\/4b0\/58ad544b0b864756983697.png",
+        "briefs": [
+            {
+                "id": 61,
+                "name": "Work at home",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 6,
+                "works_count": 0
+            },
+            {
+                "id": 173,
+                "name": "World without beards",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/58a\/ebc\/4bb\/thumb_1244_256x256_0_0_crop.jpg"
+                    }
+                },
+                "votes": 70,
+                "works_count": 1
+            },
+            {
+                "id": 174,
+                "name": "Driver-free",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 178,
+                "works_count": 0
+            },
+            {
+                "id": 183,
+                "name": "Espionage in unmanned vehicles",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 125,
+                "works_count": 0
+            },
+            {
+                "id": 198,
+                "name": "Communities of robots",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/58a\/ebb\/f7e\/thumb_1242_256x256_0_0_crop.jpg"
+                    }
+                },
+                "votes": 40,
+                "works_count": 1
+            },
+            {
+                "id": 204,
+                "name": "Barcelona 2040",
+                "year": 2040,
+                "type": "panorama",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/5a0\/ee9\/074\/thumb_10213_256x256_0_0_crop.jpg"
+                    }
+                },
+                "votes": 21,
+                "works_count": 1
+            }
+        ]
+    },
+    "2050": {
+        "url": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/58a\/d54\/4b0\/58ad544b0b864756983697.png",
+        "briefs": [
+            {
+                "id": 95,
+                "name": "Transparent inside",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 29,
+                "works_count": 0
+            },
+            {
+                "id": 164,
+                "name": "Barcelona 2050",
+                "year": 2050,
+                "type": "panorama",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/58a\/5f4\/048\/thumb_1085_256x256_0_0_crop.jpg"
+                    }
+                },
+                "votes": 40,
+                "works_count": 1
+            }
+        ]
+    },
+    "_token": "V8kifnL0TpO3Z7gyUuNCTpIYsYwFm2HfentlNI2T"
+}

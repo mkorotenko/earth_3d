@@ -1,0 +1,31 @@
+{
+    "location": {
+        "city": "Munich",
+        "country": "Germany"
+    },
+    "2030": {
+        "url": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/58a\/d69\/be3\/58ad69be3afb5981560553.png",
+        "briefs": []
+    },
+    "2040": {
+        "url": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/58a\/d69\/be3\/58ad69be3afb5981560553.png",
+        "briefs": [
+            {
+                "id": 188,
+                "name": "Viruses, damaging DNA information",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 165,
+                "works_count": 0
+            }
+        ]
+    },
+    "2050": {
+        "url": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/58a\/d69\/be3\/58ad69be3afb5981560553.png",
+        "briefs": []
+    },
+    "_token": "V8kifnL0TpO3Z7gyUuNCTpIYsYwFm2HfentlNI2T"
+}

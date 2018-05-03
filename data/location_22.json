@@ -1,0 +1,77 @@
+{
+    "2030": {
+        "url": "https://52.57.36.133/backend/storage/app/uploads/public/587/fb7/7f4/587fb77f41acb344039098.png",
+        "briefs": [
+            {
+                "id": 338,
+                "name": "Robot waiters/workers in hotels and shopping malls",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 12,
+                "works_count": 0
+            }
+        ]
+    },
+    "2040": {
+        "url": "https://52.57.36.133/backend/storage/app/uploads/public/587/fb7/7f4/587fb77f41acb344039098.png",
+        "briefs": [
+            {
+                "id": 178,
+                "name": "Puppet master",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 265,
+                "works_count": 0
+            }
+        ]
+    },
+    "2050": {
+        "url": "https://52.57.36.133/backend/storage/app/uploads/public/587/fb7/7f4/587fb77f41acb344039098.png",
+        "briefs": [
+            {
+                "id": 94,
+                "name": "Transcontinental flights in 3 hours",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 146,
+                "works_count": 0
+            },
+            {
+                "id": 104,
+                "name": "Fuel from the ocean",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 4,
+                "works_count": 0
+            },
+            {
+                "id": 172,
+                "name": "Body in store",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 109,
+                "works_count": 0
+            }
+        ]
+    },
+    "location": {
+        "city": "Tokyo",
+        "country": "Japan"
+    },
+    "_token": "V8kifnL0TpO3Z7gyUuNCTpIYsYwFm2HfentlNI2T"
+}

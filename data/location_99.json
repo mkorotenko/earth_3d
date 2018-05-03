@@ -1,0 +1,485 @@
+{
+    "location": {
+        "city": "Kiev",
+        "country": "Ukraine"
+    },
+    "2030": {
+        "url": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/587\/f9a\/f23\/587f9af23e917396960776.png",
+        "briefs": [
+            {
+                "id": 209,
+                "name": "Kiev 2030",
+                "year": 2030,
+                "type": "panorama",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/5a0\/ec5\/172\/thumb_10158_256x256_0_0_crop.jpg"
+                    }
+                },
+                "votes": 11,
+                "works_count": 1
+            },
+            {
+                "id": 212,
+                "name": "Kiev \u2014 river!",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 33,
+                "works_count": 0
+            },
+            {
+                "id": 215,
+                "name": "Microclimate Domes",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/59d\/210\/4ab\/thumb_8852_256x256_0_0_crop.png"
+                    }
+                },
+                "votes": 46,
+                "works_count": 1
+            },
+            {
+                "id": 217,
+                "name": "Multilevel transport roads",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/5a0\/aac\/d59\/thumb_9485_256x256_0_0_crop.png"
+                    }
+                },
+                "votes": 35,
+                "works_count": 1
+            },
+            {
+                "id": 220,
+                "name": "Kiev: Return of the \u201cRust Belt\u201d",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 31,
+                "works_count": 0
+            },
+            {
+                "id": 221,
+                "name": "\u201cSokolniki\u201d Park \u2014 nature\u2019s embassy in the megalopolis",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 35,
+                "works_count": 0
+            },
+            {
+                "id": 222,
+                "name": "School as a service",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 5,
+                "works_count": 0
+            },
+            {
+                "id": 223,
+                "name": "Charging at the lamppost",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 30,
+                "works_count": 0
+            },
+            {
+                "id": 244,
+                "name": "Self-driving car-sharing",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 1,
+                "works_count": 0
+            },
+            {
+                "id": 265,
+                "name": "Robotic medicine",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 4,
+                "works_count": 0
+            },
+            {
+                "id": 266,
+                "name": "By 2033, 47% of human jobs could be taken by robots",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 4,
+                "works_count": 0
+            },
+            {
+                "id": 440,
+                "name": "Languages and interpreters: no more \u201clost in translation\u201d",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 6,
+                "works_count": 0
+            },
+            {
+                "id": 499,
+                "name": "",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 3,
+                "works_count": 0
+            }
+        ]
+    },
+    "2040": {
+        "url": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/587\/f9a\/f23\/587f9af23e917396960776.png",
+        "briefs": [
+            {
+                "id": 53,
+                "name": "3D-desk",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 67,
+                "works_count": 0
+            },
+            {
+                "id": 210,
+                "name": "Kiev 2040",
+                "year": 2040,
+                "type": "panorama",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/5a0\/ec5\/878\/thumb_10161_256x256_0_0_crop.jpg"
+                    }
+                },
+                "votes": 11,
+                "works_count": 1
+            },
+            {
+                "id": 213,
+                "name": "Kiev: new development principles",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 116,
+                "works_count": 0
+            },
+            {
+                "id": 224,
+                "name": "Work is not for everyone",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 6,
+                "works_count": 0
+            },
+            {
+                "id": 225,
+                "name": "Kiev without traffic",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 4,
+                "works_count": 0
+            },
+            {
+                "id": 226,
+                "name": "Farewell to retail",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 65,
+                "works_count": 0
+            },
+            {
+                "id": 264,
+                "name": "AI will fully imitate human intelligence by 2045",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 0,
+                "works_count": 0
+            },
+            {
+                "id": 267,
+                "name": "Replace me if you can! What professions are most likely to remain in demand in the robot era?",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 8,
+                "works_count": 0
+            },
+            {
+                "id": 269,
+                "name": "Flying backpacks",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 1,
+                "works_count": 0
+            },
+            {
+                "id": 270,
+                "name": "Flying motorcycle",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 3,
+                "works_count": 0
+            },
+            {
+                "id": 271,
+                "name": "Future banks",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 3,
+                "works_count": 0
+            },
+            {
+                "id": 350,
+                "name": "Progress is not eternal",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 4,
+                "works_count": 0
+            },
+            {
+                "id": 439,
+                "name": "Personal assistants for work and life",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 3,
+                "works_count": 0
+            },
+            {
+                "id": 501,
+                "name": "",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 4,
+                "works_count": 0
+            }
+        ]
+    },
+    "2050": {
+        "url": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/587\/f9a\/f23\/587f9af23e917396960776.png",
+        "briefs": [
+            {
+                "id": 211,
+                "name": "Kiev 2050",
+                "year": 2050,
+                "type": "panorama",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/5a6\/5d3\/261\/thumb_14561_256x256_0_0_crop.jpg"
+                    }
+                },
+                "votes": 7,
+                "works_count": 1
+            },
+            {
+                "id": 214,
+                "name": "Quadcopter Taxis",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 90,
+                "works_count": 0
+            },
+            {
+                "id": 216,
+                "name": "Floating Hotel",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/59f\/1e8\/871\/thumb_9156_256x256_0_0_crop.png"
+                    }
+                },
+                "votes": 33,
+                "works_count": 1
+            },
+            {
+                "id": 218,
+                "name": "Commercial Spaceport for Orbital Tourism",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 81,
+                "works_count": 0
+            },
+            {
+                "id": 219,
+                "name": "Space Advertising",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 53,
+                "works_count": 0
+            },
+            {
+                "id": 227,
+                "name": "Fried sun of the big city",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 5,
+                "works_count": 0
+            },
+            {
+                "id": 228,
+                "name": "Kiev without parking",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 36,
+                "works_count": 0
+            },
+            {
+                "id": 229,
+                "name": "Neuromorphic official",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 21,
+                "works_count": 0
+            },
+            {
+                "id": 230,
+                "name": "Techno Ashram",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 4,
+                "works_count": 0
+            },
+            {
+                "id": 231,
+                "name": "The first ever museum of \"human\" relations",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 10,
+                "works_count": 0
+            },
+            {
+                "id": 243,
+                "name": "\u0421ollecting garbage to clean the space",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 5,
+                "works_count": 0
+            },
+            {
+                "id": 268,
+                "name": "Smart machines will make humankind more stupid",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 4,
+                "works_count": 0
+            },
+            {
+                "id": 438,
+                "name": "Avatars",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 8,
+                "works_count": 0
+            },
+            {
+                "id": 537,
+                "name": "",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 3,
+                "works_count": 0
+            }
+        ]
+    },
+    "_token": "V8kifnL0TpO3Z7gyUuNCTpIYsYwFm2HfentlNI2T"
+}

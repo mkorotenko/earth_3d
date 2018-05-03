@@ -1,0 +1,43 @@
+{
+    "2030": {
+        "url": "https://52.57.36.133/backend/storage/app/uploads/public/587/fab/8a1/587fab8a1ffff646707883.png",
+        "briefs": [
+            {
+                "id": 247,
+                "name": "Digital children room",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 1,
+                "works_count": 0
+            }
+        ]
+    },
+    "2040": {
+        "url": "https://52.57.36.133/backend/storage/app/uploads/public/587/fab/8a1/587fab8a1ffff646707883.png",
+        "briefs": [
+            {
+                "id": 179,
+                "name": "Fashionable clothes hacking",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 289,
+                "works_count": 0
+            }
+        ]
+    },
+    "2050": {
+        "url": "https://52.57.36.133/backend/storage/app/uploads/public/587/fab/8a1/587fab8a1ffff646707883.png",
+        "briefs": []
+    },
+    "location": {
+        "city": "Milan",
+        "country": "Italy"
+    },
+    "_token": "V8kifnL0TpO3Z7gyUuNCTpIYsYwFm2HfentlNI2T"
+}

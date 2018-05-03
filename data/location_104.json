@@ -1,0 +1,54 @@
+{
+    "location": {
+        "city": "Houston",
+        "country": "USA"
+    },
+    "2030": {
+        "url": "\/images\/city.jpg",
+        "briefs": [
+            {
+                "id": 39,
+                "name": "ISS: from rigid structures to inflatable modules",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 2,
+                "works_count": 0
+            }
+        ]
+    },
+    "2040": {
+        "url": "\/images\/city.jpg",
+        "briefs": [
+            {
+                "id": 76,
+                "name": "ISS is turning into a spaceport",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 2,
+                "works_count": 0
+            },
+            {
+                "id": 190,
+                "name": "Satellites as new drones",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 581,
+                "works_count": 0
+            }
+        ]
+    },
+    "2050": {
+        "url": "\/images\/city.jpg",
+        "briefs": []
+    },
+    "_token": "V8kifnL0TpO3Z7gyUuNCTpIYsYwFm2HfentlNI2T"
+}

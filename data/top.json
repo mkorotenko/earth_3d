@@ -1,0 +1,33 @@
+{
+    "list": [
+        {
+            "brief_id": 149,
+            "name": "Shanghai 2050",
+            "preview": {
+                "first": "https://52.57.36.133/backend/storage/app/uploads/public/58a/d7d/0b4/thumb_1218_256x256_0_0_crop.jpg"
+            }
+        },
+        {
+            "brief_id": 155,
+            "name": "Smart Flat 2030",
+            "preview": {
+                "first": "https://52.57.36.133/backend/storage/app/uploads/public/58a/d7c/55a/thumb_1216_256x256_0_0_crop.jpg"
+            }
+        },
+        {
+            "brief_id": 164,
+            "name": "Barcelona 2050",
+            "preview": {
+                "first": "https://52.57.36.133/backend/storage/app/uploads/public/58a/5f4/048/thumb_1085_256x256_0_0_crop.jpg"
+            }
+        },
+        {
+            "brief_id": 209,
+            "name": "Kiev 2030",
+            "preview": {
+                "first": "https://52.57.36.133/backend/storage/app/uploads/public/5a0/ec5/172/thumb_10158_256x256_0_0_crop.jpg"
+            }
+        }
+    ],
+    "_token": "V8kifnL0TpO3Z7gyUuNCTpIYsYwFm2HfentlNI2T"
+}

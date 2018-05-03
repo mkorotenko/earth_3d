@@ -1,0 +1,31 @@
+{
+    "location": {
+        "city": "Toronto",
+        "country": "Canada"
+    },
+    "2030": {
+        "url": "\/images\/city.jpg",
+        "briefs": [
+            {
+                "id": 399,
+                "name": "Canada's largest city Toronto, has many high-rise super tall buildings in its downtown core",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 2,
+                "works_count": 0
+            }
+        ]
+    },
+    "2040": {
+        "url": "\/images\/city.jpg",
+        "briefs": []
+    },
+    "2050": {
+        "url": "\/images\/city.jpg",
+        "briefs": []
+    },
+    "_token": "V8kifnL0TpO3Z7gyUuNCTpIYsYwFm2HfentlNI2T"
+}

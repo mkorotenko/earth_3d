@@ -1,0 +1,210 @@
+{
+    "location": {
+        "city": "Dubai",
+        "country": "United Arab Emirates"
+    },
+    "2030": {
+        "url": "\/images\/city.jpg",
+        "briefs": [
+            {
+                "id": 99,
+                "name": "Human Organ Print",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 3,
+                "works_count": 0
+            },
+            {
+                "id": 274,
+                "name": "Dubai 2030",
+                "year": 2030,
+                "type": "panorama",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/5a0\/5d3\/c04\/thumb_9440_256x256_0_0_crop.jpg"
+                    }
+                },
+                "votes": 2,
+                "works_count": 1
+            },
+            {
+                "id": 417,
+                "name": "Metro in Dubai",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 6,
+                "works_count": 0
+            },
+            {
+                "id": 418,
+                "name": "Vertical factory",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 3,
+                "works_count": 0
+            },
+            {
+                "id": 432,
+                "name": "Printed skyscraper",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 5,
+                "works_count": 0
+            }
+        ]
+    },
+    "2040": {
+        "url": "\/images\/city.jpg",
+        "briefs": [
+            {
+                "id": 125,
+                "name": "Adaptive intelligent systems instead of the traditional hospital",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 3,
+                "works_count": 0
+            },
+            {
+                "id": 275,
+                "name": "Dubai 2040",
+                "year": 2040,
+                "type": "panorama",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/5a2\/a87\/f77\/thumb_13788_256x256_0_0_crop.jpg"
+                    }
+                },
+                "votes": 17,
+                "works_count": 1
+            },
+            {
+                "id": 419,
+                "name": "Driverless transport",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 9,
+                "works_count": 0
+            },
+            {
+                "id": 420,
+                "name": "International Airport Al Maktoum",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 3,
+                "works_count": 0
+            }
+        ]
+    },
+    "2050": {
+        "url": "\/images\/city.jpg",
+        "briefs": [
+            {
+                "id": 98,
+                "name": "School of the future",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 7,
+                "works_count": 0
+            },
+            {
+                "id": 100,
+                "name": "139 countries have fully switched to secure energy",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 3,
+                "works_count": 0
+            },
+            {
+                "id": 276,
+                "name": "Dubai 2050",
+                "year": 2050,
+                "type": "panorama",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/5a0\/5d3\/7f2\/thumb_9438_256x256_0_0_crop.jpg"
+                    }
+                },
+                "votes": 6,
+                "works_count": 1
+            },
+            {
+                "id": 421,
+                "name": "Levitating architecture",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/5a6\/b53\/540\/thumb_14658_256x256_0_0_crop.jpg"
+                    }
+                },
+                "votes": 1,
+                "works_count": 1
+            },
+            {
+                "id": 422,
+                "name": "Seawater vertical farms in Dubai",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 4,
+                "works_count": 0
+            },
+            {
+                "id": 423,
+                "name": "Desalinating jellyfish",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/5a6\/b52\/f95\/thumb_14656_256x256_0_0_crop.jpg"
+                    }
+                },
+                "votes": 5,
+                "works_count": 1
+            },
+            {
+                "id": 424,
+                "name": "First floating skyscraper",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": {
+                        "first": "https:\/\/52.57.36.133\/backend\/storage\/app\/uploads\/public\/5a7\/0d5\/5f9\/thumb_14737_256x256_0_0_crop.jpg"
+                    }
+                },
+                "votes": 4,
+                "works_count": 1
+            }
+        ]
+    },
+    "_token": "V8kifnL0TpO3Z7gyUuNCTpIYsYwFm2HfentlNI2T"
+}

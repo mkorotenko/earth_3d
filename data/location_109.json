@@ -1,0 +1,31 @@
+{
+    "location": {
+        "city": "Seattle",
+        "country": "USA"
+    },
+    "2030": {
+        "url": "\/images\/city.jpg",
+        "briefs": []
+    },
+    "2040": {
+        "url": "\/images\/city.jpg",
+        "briefs": [
+            {
+                "id": 296,
+                "name": "Seattle\u2019s skylines and auto restaurants",
+                "year": 2040,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 17,
+                "works_count": 0
+            }
+        ]
+    },
+    "2050": {
+        "url": "\/images\/city.jpg",
+        "briefs": []
+    },
+    "_token": "V8kifnL0TpO3Z7gyUuNCTpIYsYwFm2HfentlNI2T"
+}

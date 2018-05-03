@@ -1,0 +1,109 @@
+{
+    "2030": {
+        "url": "https://52.57.36.133/backend/storage/app/uploads/public/587/fb4/340/587fb434068af658786534.png",
+        "briefs": [
+            {
+                "id": 30,
+                "name": "Universities Online",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 18,
+                "works_count": 0
+            },
+            {
+                "id": 31,
+                "name": "Intellectual advertising is everywhere",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 14,
+                "works_count": 0
+            },
+            {
+                "id": 46,
+                "name": "Cyber insurance becomes habitual",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 12,
+                "works_count": 0
+            },
+            {
+                "id": 47,
+                "name": "Mass consciousness manipulation: an old new thing",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 16,
+                "works_count": 0
+            },
+            {
+                "id": 48,
+                "name": "Internet addiction is recognised as a disease in most countries of the world",
+                "year": 2030,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 8,
+                "works_count": 0
+            }
+        ]
+    },
+    "2040": {
+        "url": "https://52.57.36.133/backend/storage/app/uploads/public/587/fb4/340/587fb434068af658786534.png",
+        "briefs": []
+    },
+    "2050": {
+        "url": "https://52.57.36.133/backend/storage/app/uploads/public/587/fb4/340/587fb434068af658786534.png",
+        "briefs": [
+            {
+                "id": 81,
+                "name": "The Domeless umbrella.",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 12,
+                "works_count": 0
+            },
+            {
+                "id": 83,
+                "name": "Rail transport back in the lead",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 27,
+                "works_count": 0
+            },
+            {
+                "id": 85,
+                "name": "Artificial Intelligence with presidential ambitions",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 19,
+                "works_count": 0
+            }
+        ]
+    },
+    "location": {
+        "city": "Canberra",
+        "country": "Australia"
+    },
+    "_token": "V8kifnL0TpO3Z7gyUuNCTpIYsYwFm2HfentlNI2T"
+}

@@ -1,0 +1,31 @@
+{
+    "location": {
+        "city": "Osaka-Wan",
+        "country": "Japan"
+    },
+    "2030": {
+        "url": "\/images\/city.jpg",
+        "briefs": []
+    },
+    "2040": {
+        "url": "\/images\/city.jpg",
+        "briefs": []
+    },
+    "2050": {
+        "url": "\/images\/city.jpg",
+        "briefs": [
+            {
+                "id": 197,
+                "name": "People-free",
+                "year": 2050,
+                "type": "thing",
+                "image": {
+                    "url": "no preview"
+                },
+                "votes": 52,
+                "works_count": 0
+            }
+        ]
+    },
+    "_token": "V8kifnL0TpO3Z7gyUuNCTpIYsYwFm2HfentlNI2T"
+}
